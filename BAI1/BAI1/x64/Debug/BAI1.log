@@ -1,0 +1,10 @@
+﻿  Bai5.cpp
+D:\HocKy3\UDTT\Bài tập\Code\BAI1\mySingleLinkedList.h(35,11): warning C4244: '=': conversion from 'double' to '__int64', possible loss of data
+  (compiling source file 'Bai5.cpp')
+  
+  Bai6.cpp
+D:\HocKy3\UDTT\Bài tập\Code\BAI1\mySingleLinkedList.h(35,11): warning C4244: '=': conversion from 'double' to '__int64', possible loss of data
+  (compiling source file 'Bai6.cpp')
+  
+  Generating Code...
+  BAI1.vcxproj -> D:\HocKy3\UDTT\Bài tập\Code\BAI1\x64\Debug\BAI1.exe
